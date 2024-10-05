@@ -1,5 +1,6 @@
-#### A simple Unity 2D game where you control a submarine and run from a massive shark
-- Collect speed boosts, Avoid obstacles - they slow you down
+#### A Unity 2D game where you control a submarine and evade from a massive shark
+- Collect speed boosts, and time them perfectly to escape from tricy situations
+- Avoid obstacles - they slow you down
 - Use MOUSE CURSOR to aim. Move cursor farther away to increase speed
 - SPACE to dash if speed boosts available
 
